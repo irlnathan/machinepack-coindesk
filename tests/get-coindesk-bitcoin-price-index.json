@@ -1,0 +1,10 @@
+{
+  "machine": "get-coindesk-bitcoin-price-index",
+  "expectations": [
+    {
+      "todo": true,
+      "using": {},
+      "outcome": "success"
+    }
+  ]
+}
