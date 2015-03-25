@@ -25,6 +25,7 @@
     "test-machinepack-mocha": "^0.2.2"
   },
   "machinepack": {
+    "iconSrc": "https://s3-us-west-1.amazonaws.com/machinepack-icons/machinepack_coindesk.png",
     "friendlyName": "Coindesk",
     "machineDir": "machines/",
     "machines": [
